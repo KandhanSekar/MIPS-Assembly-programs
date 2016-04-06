@@ -1,6 +1,4 @@
-# FILE: hw02-5.s 
-# 
-# DESCRIPTION 
+ # DESCRIPTION 
 # Asks the user to enter three integer coefficients c2, c1, and c0 of a 2nd
 # degree polynomial and a value for x. Evaluates the polynomial at x and prints 
 # the result. 
