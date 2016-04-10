@@ -1,3 +1,10 @@
+# Functional programming implementing local variables using Stack
+
+#stack pointer is incremented initally
+
+
+
+
 .eqv SYS_EXIT 10
 .eqv SYS_PRINT_CHAR 11
 .eqv SYS_PRINT_INT 1
