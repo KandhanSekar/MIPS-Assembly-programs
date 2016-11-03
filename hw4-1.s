@@ -1,6 +1,8 @@
 # Functional programming implementing local variables using Stack
 
 #stack pointer is incremented initally
+#runs on MARS MIPS editor
+
 
 
 
